@@ -6,4 +6,4 @@ Aquí se comparte el material del curso Introducción al manejo de datos con Pyt
 En la carpeta principal, se encuentran dos carpetas que contienen los notebooks de cada sesión. Además se comparte un libro de referencia básica **Python para todos** de Raúl Gonzáles Duque (http://mundogeek.net/tutorial-python/). El libro referido usa la versión 2.5, no obstante, es una buena introduccion al lenguaje.
 Adicionalmente, comparto el documento de contenidos y mayor bibliografía recomendada para este curso o diseñar otros.
 
-A disfrutar de Python!!!
+¡¡¡A disfrutar de Python!!!
